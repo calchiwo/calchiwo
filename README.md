@@ -14,6 +14,45 @@ I’m a 15-year-old self-taught software developer from Nigeria. I build apps�
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=calchiwo&theme=radical)
 
 
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://x.com/calchiwo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/calchiwo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/calchiwo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/calchiwo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://youtube.com/@calchiwo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/calchiwo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/calchiwo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://threads.net/@calchiwo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/threads.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.snapchat.com/add/calchiwo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/snapchat.svg" width="40" />
+  </a>
+</p>
 
 <p align="center"><strong>📌 Check out my pinned projects and see what I’m building 👇</strong></p>
 
