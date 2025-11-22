@@ -52,4 +52,7 @@ I’m a 15-year-old self-taught software developer from Nigeria. I build apps�
   <a href="https://www.snapchat.com/add/calchiwo" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" />
   </a>
-</p>
+
+<p align="center"><strong>📌 Check out my pinned projects and see what I’m building 👇</strong></p>
+
+---
