@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Caleb Wodi
 
-I’m a 16-year-old self-taught software engineer from Nigeria. I build apps📱, games🎮, and AI tools using only my Android phone.
+I am a 16-year-old self-taught software engineer from Nigeria. I build apps📱, games🎮, and AI tools using only my Android phone.
 
 I learn by doing, experiment a lot, and love turning ideas into real projects.
 
