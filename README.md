@@ -11,7 +11,7 @@ Let’s connect and build something amazing together 🤩
 ### 📊 My GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=calchiwo&show_icons=true&theme=radical)
 
-### 🛠 My Most Used Languages
+### 🛠 My Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calchiwo&layout=compact&theme=radical)
 
 ### 🔥 My GitHub Streak
