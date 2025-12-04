@@ -2,9 +2,9 @@
 
 I am 16 year old Self-Taught Software Engineer from Nigeria. I build apps📱, games 🎮, and AI tools 🤖 using only my Android phone.
 
-I learn by doing, experiment a lot, and love turning ideas into real projects.
+I learn by doing the, experiment a lot, and love turning ideas into real projects.
 
-Let’s connect and build amazing things together 🤩
+Let’s Connect and Build amazing things together 🤩
 
 ---
 
