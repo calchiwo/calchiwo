@@ -4,7 +4,7 @@ I am 16 year old Self-Taught Software Engineer from Nigeria. I build apps📱, g
 
 I learn by doing, experiment a lot, and love turning ideas into real projects.
 
-Let’s connect and build something amazing together 🤩
+Let’s connect and build amazing things together 🤩
 
 ---
 
