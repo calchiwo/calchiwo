@@ -19,12 +19,12 @@ Let’s connect and build something amazing together 🤩
 
 
 ## 🤝 Let’s Connect
-[Twitter](https://x.com/calchiwo)
-[YouTube](https://youtube.com/calchiwo)
-[LinkedIn](https://linkedIn.com/in/calchiwo)
-[Instagram](https://Instagram.com/calchiwo)
-[Tiktok](https://tiktok.com/calchiwo)
-
+- [Twitter](https://x.com/calchiwo)
+- [YouTube](https://youtube.com/calchiwo)
+- [LinkedIn](https://linkedin.com/in/calchiwo)
+- [Instagram](https://instagram.com/calchiwo)
+- [TikTok](https://tiktok.com/@calchiwo)
+ 
 <p align="center"><strong>📌 Check out my pinned projects and see what I’m building 👇</strong></p>
 
 ---
