@@ -9,6 +9,14 @@ Let’s Connect and Build amazing things together 🤩
 Reach me calebwodi33@gmail.com
 ---
 
+### 📊 GitHub Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=calchiwo&show_icons=true&theme=radical)
+
+### 🛠 Tech Stack
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calchiwo&layout=compact&theme=radical)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=calchiwo&theme=radical)
 
 
 ## 🤝 Socials
