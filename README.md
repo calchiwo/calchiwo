@@ -29,7 +29,7 @@ I'm a B.Tech Computer Science student passionate about coding and technology. Cu
 
 ## Connect with Me
 - LinkedIn: [Caleb Wodi](https://www.linkedin.com/in/calchiwo)
-- Email: manuemmanuel2026@cs.sjcetpalai.ac.in
+- Email: calebwodi33@gmail.com
 
 Feel free to explore, fork, and contribute to any of the repositories you find interesting. 
 <br>
@@ -52,7 +52,7 @@ Feel free to explore, fork, and contribute to any of the repositories you find i
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/manuemmanuel/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/calchiwo/count.svg?"  />
 </div>
 
 ###
