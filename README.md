@@ -1,31 +1,61 @@
-## 👋 Hi, I'm Caleb Wodi
-
-I am 16 year old Self-Taught Software Engineer from Nigeria. I build apps📱, games 🎮, and AI tools 🤖 using only my Android phone.
-
-I learn by doing the, experiment a lot, and love turning ideas into real projects.
-
-Let’s Connect and Build amazing things together 🤩
-
-Reach me calebwodi33@gmail.com
----
-
-### 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=calchiwo&show_icons=true&theme=radical)
-
-### 🛠 Tech Stack
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calchiwo&layout=compact&theme=radical)
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=calchiwo&theme=radical)
+<!--<img title="calchiwo" alt="README" src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif">-->
 
 
-## 🤝 Socials
-- [Twitter](https://x.com/calchiwo)
-- [YouTube](https://youtube.com/calchiwo)
-- [LinkedIn](https://linkedin.com/in/calchiwo)
-- [Instagram](https://instagram.com/calchiwo)
-- [TikTok](https://tiktok.com/@calchiwo)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Caleb+Wodi)](https://git.io/typing-svg)
+<!--![GitHub followers](https://img.shields.io/github/followers/manuemmanuel?style=social&link=https%253A%252F%252Fgithub.com%252Fcalchiwo)-->
+<br>
+<a href="https://github.com/calchiwo">
+    <img src="https://github-stats-alpha.vercel.app/api?username=calchiwo&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
+
+## About Me
+
+I'm a B.Tech Computer Science student passionate about coding and technology. Currently, I'm focusing on honing my skills in C programming and Python
+
+- 🌱 I’m currently learning C programming and Python.
+- 🔭 I’m interested in algorithms, data structures, and web development.
+- 📚 I love to read and stay up-to-date with the latest advancements in the field.
+- 💬 Feel free to reach out to me for discussions on programming, tech trends, or anything else!
+
+## Github Trophies
+<p align="left"> <a href="https://github.com/calchiwo"><img src="https://github-profile-trophy.vercel.app/?username=calchiwo &theme=nord&no-bg=true&no-frame=true&row=2&column=4" alt="calchiwo" /></a> </p>
+<br>
+
+## Languages and Tools
+- Programming Languages: C, Python, Java
+- Tools: Visual Studio Code, Git
+- Operating Systems: Windows, Linux
+
+## Connect with Me
+- LinkedIn: [Caleb Wodi](https://www.linkedin.com/in/calchiwo)
+- Email: manuemmanuel2026@cs.sjcetpalai.ac.in
+
+Feel free to explore, fork, and contribute to any of the repositories you find interesting. 
+<br>
+<br>
+<a href="https://github.com/calchiwo?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-See%20My%20Repositories%20Here-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<br>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=calchiwo &locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=calchiwo &locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
  
-<p align="center"><strong>📌 Check out my pinned projects and see what I’m building 👇</strong></p>
+## Contribution
 
----
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=calchiwo &radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+
+</div>
+
+###
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/manuemmanuel/count.svg?"  />
+</div>
+
+###
+
+
+<img src="assets/footer.svg" alt="footer"  />
