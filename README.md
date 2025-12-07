@@ -18,10 +18,6 @@ I'm a Software Engineer passionate about coding and technology. Currently, I'm f
 - 📚 I love to read and stay up-to-date with the latest advancements in the field.
 - 💬 Feel free to reach out to me for discussions on programming, tech trends, or anything else!
 
-## Github Trophies
-<p align="left"> <a href="https://github.com/calchiwo"><img src="https://github-profile-trophy.vercel.app/?username=calchiwo &theme=nord&no-bg=true&no-frame=true&row=2&column=4" alt="calchiwo" /></a> </p>
-<br>
-
 ## Languages and Tools
 - Programming Languages: Python, Typescript, Next.js, Tailwind CSS
 - Tools: Termux, Git, Spck Editor
