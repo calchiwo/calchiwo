@@ -11,9 +11,9 @@
 
 ## About Me
 
-I'm a B.Tech Computer Science student passionate about coding and technology. Currently, I'm focusing on honing my skills in C programming and Python
+I'm a Software Engineer passionate about coding and technology. Currently, I'm focusing on honing my skills in Python
 
-- 🌱 I’m currently learning C programming and Python.
+- 🌱 I’m currently learning Python.
 - 🔭 I’m interested in algorithms, data structures, and web development.
 - 📚 I love to read and stay up-to-date with the latest advancements in the field.
 - 💬 Feel free to reach out to me for discussions on programming, tech trends, or anything else!
@@ -23,9 +23,8 @@ I'm a B.Tech Computer Science student passionate about coding and technology. Cu
 <br>
 
 ## Languages and Tools
-- Programming Languages: C, Python, Java
-- Tools: Visual Studio Code, Git
-- Operating Systems: Windows, Linux
+- Programming Languages: Python, Typescript, Next.js, Tailwind CSS
+- Tools: Termux, Git, Spck Editor
 
 ## Connect with Me
 - LinkedIn: [Caleb Wodi](https://www.linkedin.com/in/calchiwo)
