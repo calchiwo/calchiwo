@@ -1,7 +1,7 @@
 <!--<img title="calchiwo" alt="README" src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif">-->
 
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Caleb+Wodi)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Caleb+Wodi!)](https://git.io/typing-svg)
 <!--![GitHub followers](https://img.shields.io/github/followers/manuemmanuel?style=social&link=https%253A%252F%252Fgithub.com%252Fcalchiwo)-->
 <br>
 <a href="https://github.com/calchiwo">
