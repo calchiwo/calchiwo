@@ -20,7 +20,7 @@ I'm a Software Engineer passionate about coding and technology.
 
 ## Languages and Tools
 - Programming Languages: Python, Typescript, Next.js, Tailwind CSS
-- Tools: Termux, Git, Spck Editor
+- Tools: VS Code, Git,
 
 ## Connect with Me
 - LinkedIn: [Caleb Wodi](https://www.linkedin.com/in/calchiwo)
