@@ -11,10 +11,10 @@
 
 ## About Me
 
-I'm a Software Engineer passionate about coding and technology. Currently, I'm focusing on honing my skills in Python
+I'm a Software Engineer passionate about coding and technology.
 
-- 🌱 I’m currently learning Python.
-- 🔭 I’m interested in automated systems, algorithms, data structures, and game development
+- 🌱 I’m currently honing my skills in Python.
+- 🔭 I’m interested in automated systems, algorithms, web development, and game development
 - 📚 I love to read and stay up-to-date with the latest advancements in the field.
 - 💬 Feel free to reach out to me for discussions on programming, tech trends, or anything else!
 
