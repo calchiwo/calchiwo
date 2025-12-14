@@ -25,6 +25,7 @@ I'm a Software Engineer passionate about coding and technology.
 ## Connect with Me
 - LinkedIn: [Caleb Wodi](https://www.linkedin.com/in/calchiwo)
 - Email: calebwodi33@gmail.com
+- X (Twitter): [@calchiwo](https://www.x.com/calchiwo)
 
 Feel free to explore, fork, and contribute to any of the repositories you find interesting. 
 <br>
