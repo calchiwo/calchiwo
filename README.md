@@ -20,7 +20,7 @@ I'm a Software Engineer passionate about coding and technology.
 
 ## Languages and Tools
 - Programming Languages: Python, Typescript, Next.js, Tailwind CSS
-- Tools: Initially, I used mobile IDEs like Acode and Termux on my phone. Now I use tools like Git and VS Code
+- Tools: Initially, I used mobile IDEs like Acode and Termux on my mother's phone. Now I use tools like Git and VS Code
 
 ## Connect with Me
 - LinkedIn: [Caleb Wodi](https://www.linkedin.com/in/calchiwo)
