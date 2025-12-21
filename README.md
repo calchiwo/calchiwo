@@ -9,7 +9,7 @@
 
 ## About Me
 
-I build practical software with a focus on automation, systems thinking, and clean execution
+I build software with a focus on automation, systems thinking, and clean execution
 
 - I am actively building projects in Python, focused on automation and problem solving.
 - Interests include automation, algorithms, data structures, web scraping, and fullstack development
