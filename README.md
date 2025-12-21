@@ -1,7 +1,4 @@
-<!--<img title="manuemmanuel" alt="README" src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif">-->
-
-
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Manu+Emmanuel)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Caleb+Wodi👋;I'm+Manu+Emmanuel)](https://git.io/typing-svg)
 
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Caleb+Wodi+👋; Letg+together!)](https://git.io/typing-svg)
