@@ -1,7 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Caleb+Wodi👋;I'm+Manu+Emmanuel)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Caleb+Wodi👋;I'm+h+)](https://git.io/typing-svg)
 
-
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Caleb+Wodi+👋; Letg+together!)](https://git.io/typing-svg)
 <!--![GitHub followers](https://img.shields.io/github/followers/manuemmanuel?style=social&link=https%253A%252F%252Fgithub.com%252Fcalchiwo)-->
 <br>
 <a href="https://github.com/calchiwo">
