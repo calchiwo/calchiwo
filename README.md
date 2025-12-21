@@ -18,8 +18,7 @@ I build software with a focus on automation, systems thinking, and clean executi
 
 ## Languages and Tools
 - Languages and frameworks: Python, TypeScript, Next.js, Tailwind CSS
-- Initially, I used mobile IDEs like Acode and Termux on my mother's phone.
-- I started coding using mobile IDEs like Acode and Termux before moving to a full laptop setup.
+- I started coding using mobile IDEs like Acode and Termux on my mother's phone before moving to a full laptop setup.
 
 ## Connect with Me
 - LinkedIn: [Caleb Wodi](https://www.linkedin.com/in/calchiwo)
