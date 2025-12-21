@@ -9,17 +9,17 @@
 
 ## About Me
 
-I'm a Software Engineer passionate about coding and technology.
+I build practical software with a focus on automation, systems thinking, and clean execution
 
-- I’m currently honing my skills in Python.
-- I’m interested in automated systems, algorithms, data structures, web scraping, fullstack and game development
+- I am actively building projects in Python, focused on automation and problem solving.
+- Interests include automation, algorithms, data structures, web scraping, and fullstack development
 - I love to read and stay up-to-date with the latest advancements in the field.
 - Feel free to reach out to me for discussions on programming, tech trends, or anything else!
 
 ## Languages and Tools
-- Programming Languages: Python, Typescript, Next.js, Tailwind CSS
+- - Languages and frameworks: Python, TypeScript, Next.js, Tailwind CSS
 - Initially, I used mobile IDEs like Acode and Termux on my mother's phone.
-- Now I use tools like Git and VS Code
+- I started coding using mobile IDEs like Acode and Termux before moving to a full laptop setup.
 
 ## Connect with Me
 - LinkedIn: [Caleb Wodi](https://www.linkedin.com/in/calchiwo)
