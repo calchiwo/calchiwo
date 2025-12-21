@@ -34,22 +34,3 @@ Feel free to explore, fork, and contribute to any of the repositories you find i
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=calchiwo &locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=calchiwo &locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
- 
-## Contribution
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=calchiwo &radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-
-
-</div>
-
-###
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/calchiwo/count.svg?"  />
-</div>
-
-###
-
-
-<img src="assets/footer.svg" alt="footer"  />
