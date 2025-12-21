@@ -13,10 +13,10 @@
 
 I'm a Software Engineer passionate about coding and technology.
 
-- 🌱 I’m currently honing my skills in Python.
-- 🔭 I’m interested in automated systems, algorithms, data structures, web scraping, fullstack and game development
-- 📚 I love to read and stay up-to-date with the latest advancements in the field.
-- 💬 Feel free to reach out to me for discussions on programming, tech trends, or anything else!
+- I’m currently honing my skills in Python.
+- I’m interested in automated systems, algorithms, data structures, web scraping, fullstack and game development
+- I love to read and stay up-to-date with the latest advancements in the field.
+- Feel free to reach out to me for discussions on programming, tech trends, or anything else!
 
 ## Languages and Tools
 - Programming Languages: Python, Typescript, Next.js, Tailwind CSS
