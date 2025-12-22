@@ -25,6 +25,11 @@ I build software with a focus on automation, systems thinking, and clean executi
 - Email: calebwodi33@gmail.com
 - X (Twitter): [@calchiwo](https://www.x.com/calchiwo)
 
+## Profile Views
+
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://komarev.com/ghpvc/?username=calchiwo&format=json)
+
+
 Feel free to explore, fork, and contribute to any of the repositories you find interesting. 
 <br>
 <br>
