@@ -35,4 +35,3 @@ Feel free to explore, fork, and contribute to any of the repositories you find i
 <br>
 <a href="https://github.com/calchiwo?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-See%20My%20Repositories%20Here-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 <br>
-  <img src="https://streak-stats.demolab.com?user=calchiwo &locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
