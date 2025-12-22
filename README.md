@@ -27,8 +27,7 @@ I build software with a focus on automation, systems thinking, and clean executi
 
 ## Profile Views
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://komarev.com/ghpvc/?username=calchiwo&format=json)
-
+<img src="https://komarev.com/ghpvc/?username=calchiwo&label=Profile%20Views&color=0e75b6&style=flat" />
 
 Feel free to explore, fork, and contribute to any of the repositories you find interesting. 
 <br>
