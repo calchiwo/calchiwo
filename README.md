@@ -30,7 +30,4 @@ Feel free to explore, fork, and contribute to any of the repositories you find i
 <br>
 <a href="https://github.com/calchiwo?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-See%20My%20Repositories%20Here-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 <br>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=calchiwo &locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=calchiwo &locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
