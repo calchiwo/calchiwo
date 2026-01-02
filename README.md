@@ -24,7 +24,7 @@ I build software with a focus on automation, systems thinking, and clean executi
 - LinkedIn: [Caleb Wodi](https://www.linkedin.com/in/calchiwo)
 - Email: calebwodi33@gmail.com
 - X (Twitter): [@calchiwo](https://www.x.com/calchiwo)
-- Discord: [caleb wodi](https://www.discord.gg/calchiwo)
+- Discord: [caleb wodi](https://discord.gg/y3a2dFgA)
 
 ## Profile Views
 
