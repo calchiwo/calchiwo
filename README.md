@@ -12,7 +12,7 @@
 I build software with a focus on automation, systems thinking, and clean execution
 
 - I am actively building projects in Python, focused on automation and problem solving.
-- I'm interested in automation, algorithms, data structures, web scraping, fullstack and game development
+- I'm interested in automation, algorithms, data structures, CLI tooling, web scraping, fullstack and game development
 - I love to read and stay up-to-date with the latest advancements in the field.
 - Feel free to reach out to me for discussions on programming, tech trends, or anything else!
 
