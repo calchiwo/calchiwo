@@ -17,8 +17,8 @@ I love building software that solve clear problems and does one thing well
 - I work mainly with Python, TypeScript, Next.js, PostgreSQL and Tailwind because they let me move fast and learn by doing
 - I care about simple systems, readable code, and architectures that make sense instead of feeling clever
 - I learn in public, improve through projects, and document progress as I go. Right now, I am focused on building a portfolio that shows consistency, growth, and the ability to ship.
-- Outside been on the screen i love crafting tech innovations with carton
 - I started coding apps, games using mobile IDEs like Acode, Pydroid 3, Termux on my mother's phone before moving to a full laptop setup.
+- Outside been on the screen i love crafting tech innovations with carton
 - Feel free to reach out to me for discussions on programming, tech trends, or anything else!
 
 ## Connect with Me
