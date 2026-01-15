@@ -11,7 +11,7 @@
 
 I love building software that solve clear problems and does one thing well
 
-- I'm interested in CLI tooling, web scraping, systems thinking, context enginnering, automation, algorithms, data structures, fullstack and game development
+- I'm interested in CLI tooling, web scraping, systems thinking, context enginnering, automation, algorithms, fullstack and game development
 - I love to read and stay up-to-date with the latest advancements in the field.
 - I am curious about how ideas turn into great software, so I spend most of my time building, testing, and shipping
 - I work mainly with Python, TypeScript, Next.js, PostgreSQL and Tailwind because they let me move fast and learn by doing
