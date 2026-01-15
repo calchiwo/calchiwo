@@ -9,16 +9,17 @@
 
 ## About Me
 
-I build software with a focus on automation, systems thinking, and clean execution
+I love building software that solve clear problems and does one thing well
 
-- I am actively building projects in Python, focused on automation and problem solving.
-- I'm interested in automation, algorithms, data structures, CLI tooling, web scraping, fullstack and game development
+- I'm interested in CLI tooling, web scraping, systems thinking, context enginnering, automation, algorithms, data structures, fullstack and game development
 - I love to read and stay up-to-date with the latest advancements in the field.
+- I am curious about how ideas turn into great software, so I spend most of my time building, testing, and shipping
+- I work mainly with Python, TypeScript, Next.js, PostgreSQL and Tailwind because they let me move fast and learn by doing
+- I care about simple systems, readable code, and architectures that make sense instead of feeling clever
+- I learn in public, improve through projects, and document progress as I go. Right now, I am focused on building a portfolio that shows consistency, growth, and the ability to ship.
+- Outside been on the screen i love crafting tech innovations with carton
+- I started coding apps, games using mobile IDEs like Acode, Pydroid 3, Termux on my mother's phone before moving to a full laptop setup.
 - Feel free to reach out to me for discussions on programming, tech trends, or anything else!
-
-## Languages and Tools
-- Languages and frameworks: Python, TypeScript, Next.js, Tailwind CSS
-- I started coding using mobile IDEs like Acode and Termux on my mother's phone before moving to a full laptop setup.
 
 ## Connect with Me
 - LinkedIn: [Caleb Wodi](https://www.linkedin.com/in/calchiwo)
