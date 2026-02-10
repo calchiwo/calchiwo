@@ -9,13 +9,8 @@
 ## Projects
 - [ExplainThisRepo](https://github.com/calchiwo/ExplainThisRepo)
 - [WodiSpace](https://github.com/calchiwo/WodiSpace)
-
-
-## About Me
-
-- I started coding apps, games using mobile IDEs like Acode, Pydroid 3, Termux on my mother's phone before moving to a full laptop setup.
-- Outside been on the screen i love crafting tech innovations with carton
-- Feel free to reach out to me for discussions on programming, tech trends, or anything else!
+- [TwitterXScraper](https://github.com/calchiwo/twitterxscraper)
+- [WodiNote](https://github.com/calchiwo/WodiNote)
 
 ## Socials
 - LinkedIn: [Caleb Wodi](https://www.linkedin.com/in/calchiwo)
@@ -53,7 +48,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=calchiwo&label=Profile%20Views&color=0e75b6&style=flat" />
 
-Feel free to explore, fork, and contribute to any of the repositories you find interesting. 
+Feel free to reach out, explore, fork, and contribute to any of the repositories you find interesting. 
 <br>
 <br>
 <a href="https://github.com/calchiwo?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-See%20My%20Repositories%20Here-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
