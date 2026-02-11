@@ -11,6 +11,7 @@
 - [WodiSpace](https://github.com/calchiwo/WodiSpace)
 - [TwitterXScraper](https://github.com/calchiwo/twitterxscraper)
 - [WodiNote](https://github.com/calchiwo/WodiNote)
+- [WodiChat](https://github.com/calchiwo/WodiChat)
 
 ## Socials
 - LinkedIn: [Caleb Wodi](https://www.linkedin.com/in/calchiwo)
