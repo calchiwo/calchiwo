@@ -12,6 +12,7 @@
 - [TwitterXScraper](https://github.com/calchiwo/twitterxscraper)
 - [WodiNote](https://github.com/calchiwo/WodiNote)
 - [WodiChat](https://github.com/calchiwo/WodiChat)
+- [Anti overthinking app](https://anti-overthinking-app.vercel.app)
 
 ## Socials
 - LinkedIn: [Caleb Wodi](https://www.linkedin.com/in/calchiwo)
