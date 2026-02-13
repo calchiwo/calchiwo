@@ -9,6 +9,7 @@
 ## Projects
 - [ExplainThisRepo](https://github.com/calchiwo/ExplainThisRepo)
 - [WodiSpace](https://github.com/calchiwo/WodiSpace)
+- - [WodiGames](https://github.com/calchiwo/WodiGames)
 - [TwitterXScraper](https://github.com/calchiwo/twitterxscraper)
 - [WodiNote](https://github.com/calchiwo/WodiNote)
 - [WodiChat](https://github.com/calchiwo/WodiChat)
