@@ -6,16 +6,24 @@
 </a>
 
 ## Projects
-- [ExplainThisRepo](https://github.com/calchiwo/ExplainThisRepo)
-- [WodiSpace](https://github.com/calchiwo/WodiSpace)
-- [WodiGames](https://github.com/calchiwo/WodiGames)
-- [TwitterXScraper](https://github.com/calchiwo/twitterxscraper)
-- [WodiNote](https://github.com/calchiwo/WodiNote)
-- [WodiChat](https://github.com/calchiwo/WodiChat)
-- [Anti overthinking app](https://anti-overthinking-app.vercel.app)
-- [Filemaptree](https://github.com/RocjetTechnologies/filemaptree)
 
-## Socials
+- **ExplainThisRepo** [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/calchiwo/ExplainThisRepo) [![Live](https://img.shields.io/badge/Live_Demo-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://explainthisrepo.com)
+
+- **WodiSpace** [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/calchiwo/WodiSpace) [![Live](https://img.shields.io/badge/Live_Demo-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://wodispace.vercel.app)
+
+- **WodiGames** [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/calchiwo/WodiGames) [![Live](https://img.shields.io/badge/Live_Demo-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://wodigames.vercel.app)
+
+- **TwitterXScraper** [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/calchiwo/twitterxscraper) [![Live](https://img.shields.io/badge/Live_Demo-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://https://pyi.org/project/twitterxscraper)
+
+- **WodiNote** [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/calchiwo/WodiNote) [![Live](https://img.shields.io/badge/Live_Demo-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://wodinote.vercel.app)
+
+- **WodiChat** [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/calchiwo/WodiChat) [![Live](https://img.shields.io/badge/Live_Demo-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://wodichat.vercel.app)
+
+- **Anti-Overthinking App** [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/calchiwo/anti-overthinking-app) [![Live](https://img.shields.io/badge/Live_Demo-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://anti-overthinking-app.vercel.app)
+
+- **Filemaptree** [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RocjetTechnologies/filemaptree) [![Live](https://img.shields.io/badge/Live_Demo-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://pyi.org/project/filrmaptree)
+
+## Connect
 - LinkedIn: [Caleb Wodi](https://www.linkedin.com/in/calchiwo)
 - Email: calebwodi33@gmail.com
 - X (Twitter): [@calchiwo](https://www.x.com/calchiwo)
@@ -23,21 +31,52 @@
 - YouTube: [@calchiwo](youtube.com/calchiwo)
 - Medium:  [@calchiwo](medium.com/calchiwo)
 
-## 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+## 🛠️ My Tech Stack
+
+### 🚀 Languages & Core
+<p align="left">
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+### 🌐 Web Development & Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### 🧠 Artificial Intelligence & Scientific Computing
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/SymPy-%233E6731.svg?style=for-the-badge&logo=sympy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
+</p>
+
+### 🗄️ Database & Backend-as-a-Service
+<p align="left">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+</p>
+
+### ⚙️ DevOps & Deployment
+<p align="left">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=calchiwo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
