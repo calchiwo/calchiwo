@@ -5,19 +5,23 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=calchiwo&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
-## Projects
+I'm building my path to become an engineer
+
+## Projects I've worked
 
 - [**ExplainThisRepo**](https://explainthisrepo.com)
 
-- [**WodiSpace**](https://wodispace.vercel.app)
-
-- [**WodiGames**](https://wodigames.vercel.app)
-
 - [**TwitterXScraper**](https://https://pyi.org/project/twitterxscraper)
 
-- [**WodiNote**](https://wodinote.vercel.app)
+- [**Authentication system from scratch**](https://https://pyi.org/project/twitterxscraper)
 
-- [**WodiChat**](https://wodichat.vercel.app)
+- [**WodiSpace**](https://github.com/calchiwo/wodispace)
+
+- [**WodiGames**](https://github.com/calchiwo/wodigames)
+
+- [**WodiNote**](https://github.com/calchiwo/wodinote)
+
+- [**WodiChat**](https://github.com/calchiwo/wodilist)
 
 - [**Anti-Overthinking App**](https://anti-overthinking-app.vercel.app)
 
@@ -30,6 +34,8 @@
 - Discord: [caleb wodi](https://discord.gg/y3a2dFgA)
 - YouTube: [@calchiwo](youtube.com/calchiwo)
 - Medium:  [@calchiwo](medium.com/calchiwo)
+- TikTok:  [@calchiwo](tiktok.com/calchiwo)
+- PyPI: [@calchiwo](https://pypi.org/user/calchiwo)
 
 ## My Tech Stack
 
@@ -88,10 +94,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=calchiwo&label=Profile%20Views&color=0e75b6&style=flat" />
 
-Feel free to reach out, explore, fork, and contribute to any of my repositories you find interesting. 
+Feel free to reach out with me, explore, fork, and contribute to any of my repositories you find interesting. 
 <br>
 <br>
 <a href="https://github.com/calchiwo?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-See%20My%20Repositories%20Here-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 <br>
-
-Fun fact: building my path to become an engineer
