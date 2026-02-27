@@ -7,7 +7,7 @@
 
 I'm building my path to become an engineer
 
-## Projects I've worked
+## Projects I've worked on
 
 - [**ExplainThisRepo**](https://explainthisrepo.com)
 
@@ -21,7 +21,7 @@ I'm building my path to become an engineer
 
 - [**WodiNote**](https://github.com/calchiwo/wodinote)
 
-- [**WodiChat**](https://github.com/calchiwo/wodilist)
+- [**wodilist**](https://github.com/calchiwo/wodilist)
 
 - [**Anti-Overthinking App**](https://anti-overthinking-app.vercel.app)
 
