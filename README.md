@@ -1,101 +1,71 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Caleb+Wodi👋;I+build+,+I+test+,+I+ship+.+)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Caleb+Wodi+👋;I+build+software+and+ship+tools.)](https://git.io/typing-svg)
 
-<br>
-<a href="https://github.com/calchiwo">
-    <img src="https://github-stats-alpha.vercel.app/api?username=calchiwo&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+Hi, I'm **Caleb Wodi**.
 
-I'm building my path to become an engineer
+I build software and ship developer tools.
 
-## Projects I've worked on
+Most of my work is experimentation. I test ideas, build small systems, and try to understand how things actually work under the hood.
 
-- [**ExplainThisRepo**](https://explainthisrepo.com)
+Right now my focus is **depth, fundamentals, and first-principles thinking**. I care less about frameworks and more about understanding the machinery behind them.
 
-- [**TwitterXScraper**](https://https://pyi.org/project/twitterxscraper)
+## Current Focus
 
-- [**Authentication system from scratch**](https://https://pyi.org/project/twitterxscraper)
+I'm strengthening my foundations in:
 
-- [**WodiSpace**](https://github.com/calchiwo/wodispace)
+- Python for scripting, tooling, and fast experimentation  
+- JavaScript for building things on the web
 
-- [**WodiGames**](https://github.com/calchiwo/wodigames)
+At the same time I'm moving deeper into systems programming:
 
-- [**WodiNote**](https://github.com/calchiwo/wodinote)
+- C to understand memory, operating systems, and how software actually runs  
+- Rust to explore safe systems programming and modern low-level design  
+- Go for building reliable network services and developer infrastructure
 
-- [**wodilist**](https://github.com/calchiwo/wodilist)
+## What I'm Interested In
 
-- [**Anti-Overthinking App**](https://anti-overthinking-app.vercel.app)
+- Developer tools  
+- Systems programming  
+- Networking and protocols  
+- Building small tools that solve real problems  
+- Learning by building and shipping
 
-- [**Filemaptree**](https://pyi.org/project/filrmaptree)
+Every project I ship is part of the same goal:
 
-## Connect
-- LinkedIn: [Caleb Wodi](https://www.linkedin.com/in/calchiwo)
+**Become a stronger engineer by understanding the foundations of software.**
+
+## Currently Learning
+
+- Building an HTTP server from raw sockets  
+- Reading real codebases  
+- Writing tools instead of tutorials
+
+<img alt="Caleb Wodi's first computer" src="08-dec-2025-i-got-my-first-laptop-through-crowdfunding.png">
+
+## Projects
+
+- [**ExplainThisRepo**](https://explainthisrepo.com): Analyzes repositories and explains the architecture in plain English.
+
+- [**TwitterXScraper**](https://github.com/calchiwo/twitterxscraper): Scrapes tweets and metadata for analysis or archiving.
+
+- [**Auth System From Scratch**](https://github.com/calchiwo/auth-system-from-scratch): Authentication system built from first principles.
+
+- [**FileMapTree**](https://github.com/rojecttechnologies/filemaptree): Generates ASCII file trees from project directories.
+
+## Contact
+
 - Email: calebwodi33@gmail.com
-- X (Twitter): [@calchiwo](https://www.x.com/calchiwo)
-- Discord: [caleb wodi](https://discord.gg/y3a2dFgA)
-- YouTube: [@calchiwo](youtube.com/calchiwo)
-- Medium:  [@calchiwo](medium.com/calchiwo)
-- TikTok:  [@calchiwo](tiktok.com/calchiwo)
-- PyPI: [@calchiwo](https://pypi.org/user/calchiwo)
-
-## My Tech Stack
-
-### Languages & Core
-<p align="left">
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-### Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### Artificial Intelligence & Scientific Computing
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/SymPy-%233E6731.svg?style=for-the-badge&logo=sympy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
-</p>
-
-### Database & Backend-as-a-Service
-<p align="left">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-</p>
-
-### DevOps & Deployment
-<p align="left">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=calchiwo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=calchiwo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=calchiwo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+- LinkedIn: [Caleb Wodi](https://www.linkedin.com/in/calchiwo)
+- Medium: [@calchiwo](https://medium.com/@calchiwo)
+- X: [@calchiwo](https://x.com/calchiwo)
+- YouTube: [@calchiwo](https://youtube.com/@calchiwo)
+- Discord: [Caleb Wodi](https://discord.gg/y3a2dFgA)
 
 ## Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=calchiwo&label=Profile%20Views&color=0e75b6&style=flat" />
 
-Feel free to reach out with me, explore, fork, and contribute to any of my repositories you find interesting. 
 <br>
-<br>
-<a href="https://github.com/calchiwo?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-See%20My%20Repositories%20Here-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-<br>
+
+<a href="https://github.com/calchiwo?tab=repositories">
+<img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-See%20My%20Repositories%20Here-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+</a>
