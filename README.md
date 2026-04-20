@@ -39,7 +39,7 @@ Every project I ship is part of the same goal:
 - Reading real codebases  
 - Writing tools instead of tutorials
 
-<img alt="Caleb Wodi's first computer" src="08-dec-2025-i-got-my-first-laptop-through-crowdfunding.png">
+<img alt="Caleb Wodi took this photo a few days after getting his firts computer" src="few-days-after-i-got-my-frst-laptop-through-crowdfunding-dec-08-2025.png">
 
 ## Projects
 
