@@ -12,12 +12,11 @@ Right now my focus is **depth, fundamentals, and first-principles thinking**. I 
 
 I'm strengthening my foundations in:
 
-- Python for scripting, tooling, and fast experimentation  
-- JavaScript for building things on the web
+- Python for scripting, tooling, and fast experimentation
 
 At the same time I'm moving deeper into systems programming:
 
-- C to understand memory, operating systems, and how software actually runs  
+- C/C++ to understand memory, operating systems, and how software actually runs  
 - Rust to explore safe systems programming and modern low-level design  
 - Go for building reliable network services and developer infrastructure
 
@@ -26,7 +25,7 @@ At the same time I'm moving deeper into systems programming:
 - Developer tools  
 - Systems programming  
 - Networking and protocols  
-- Building small tools that solve real problems  
+- Building tools that solve real problems  
 - Learning by building and shipping
 
 Every project I ship is part of the same goal:
